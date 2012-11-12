@@ -1,0 +1,29 @@
+{
+    "name": "nonce",
+    "description": "node.js access to the mtgox api",
+    "version": "1.0.0",
+    "keywords": [
+        "mtgox",
+        "bitcoin"
+    ],
+    "author": "abrkn <a@abrkn.com>",
+    "license": "MIT",
+    "dependencies": {
+        "debug": "0.7.0",
+        "num": "0.2.0",
+        "underscore": "1.4.2",
+        "request": "2.11.4"
+    },
+    "devDependencies": {
+        "mocha": "1.7.0",
+        "expect.js": "0.2.0"
+    },
+    "main": "./lib/mtgox",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abrkn/mtgox.git"
+    },
+    "engines": {
+        "node": ">=0.6"
+    }
+}
