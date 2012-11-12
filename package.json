@@ -1,7 +1,7 @@
 {
     "name": "mtgox",
     "description": "node.js access to the mtgox api",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [
         "mtgox",
         "bitcoin"
@@ -12,7 +12,8 @@
         "debug": "0.7.0",
         "num": "0.2.0",
         "underscore": "1.4.2",
-        "request": "2.11.4"
+        "request": "2.11.4",
+        "nonce": "1.0.0"
     },
     "devDependencies": {
         "mocha": "1.7.0",
