@@ -12,7 +12,7 @@
         "debug": "0.7.0",
         "num": "0.2.0",
         "underscore": "1.4.2",
-        "request": "2.11.4",
+        "request": "2.16.x",
         "nonce": "1.0.0"
     },
     "devDependencies": {
