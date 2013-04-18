@@ -1,7 +1,7 @@
 {
     "name": "mtgox",
     "description": "node.js access to the mtgox api",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": [
         "mtgox",
         "bitcoin"
