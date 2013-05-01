@@ -18,7 +18,7 @@
     "devDependencies": {
         "mocha": "~1.7.0",
         "expect.js": "~0.2.0",
-        "konfu": "~1.1.3"
+        "konfu": "~1.1.4"
     },
     "repository": {
         "type": "git",
