@@ -1,0 +1,7 @@
+/config.json
+node_modules/
+/test.js
+/.gitignore
+/.npmignore
+/.travis.yml
+*.tgz
