@@ -1,33 +1,33 @@
 {
-    "name": "mtgox",
-    "description": "node.js access to the mtgox api",
-    "version": "1.0.0",
-    "keywords": [
-        "mtgox",
-        "bitcoin"
-    ],
-    "author": "Andreas Brekken <a@abrkn.com>",
-    "license": "Free as in Hugs License",
-    "dependencies": {
-        "debug": "~0.7.0",
-        "num": "~0.2.0",
-        "underscore": "~1.4.2",
-        "request": "~2.16.0",
-        "nonce": "~1.0.0"
-    },
-    "devDependencies": {
-        "mocha": "~1.7.0",
-        "expect.js": "~0.2.0",
-        "konfu": "~1.1.4"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/abrkn/mtgox.git"
-    },
-    "engines": {
-        "node": ">=0.6"
-    },
-    "scripts": {
-        "test": "mocha"
-    }
+  "name": "mtgox",
+  "description": "node.js access to the mtgox api",
+  "version": "1.0.1",
+  "keywords": [
+    "mtgox",
+    "bitcoin"
+  ],
+  "author": "Andreas Brekken <a@abrkn.com>",
+  "license": "Free as in Hugs License",
+  "dependencies": {
+    "debug": "~0.7.0",
+    "num": "~0.2.0",
+    "underscore": "~1.4.2",
+    "request": "~2.16.0",
+    "nonce": "~1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.0",
+    "expect.js": "~0.2.0",
+    "konfu": "~1.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrkn/mtgox.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
 }
