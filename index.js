@@ -6,7 +6,7 @@ var debug = require('debug')('mtgox')
 , num = require('num')
 , MtGox = module.exports = function(options) {
     this.options = options || {}
-    this.options.url || (this.options.url = 'https://mtgox.com/api')
+    this.options.url || (this.options.url = 'https://data.mtgox.com/api')
     this.nonce = require('nonce')()
 }
 
