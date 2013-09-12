@@ -111,7 +111,7 @@ MtGox.prototype.market = function(market, cb) {
             ask: result.sell.value,
             last: result.last.value,
             high: result.high.value,
-            low: result.high.value,
+            low: result.low.value,
             volume: result.vol.value,
             average: result.avg.value,
             timestamp: +result.now
